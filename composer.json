@@ -1,10 +1,10 @@
 {
   "name" : "e-commerce-passaro/compra-view",
   "description" : "Biblioteca para camada de view de compra em um e-commerce",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "type":"library",
   "homepage":"https://github.com/e-commerce-passaro/compra-view",
-  "time":"2017-04-11 14:21:04",
+  "time":"2017-05-11 15:16:05",
   "license":"GPL-3.0+",
   "authors":[{
 	"name":"Marcel Bezerra da Silva",
@@ -19,8 +19,8 @@
   },
   "require" : {
     "php" : ">=7.0",
-    "zendframework/zend-view" : "2.9.*",
-    "e-commerce-passaro/compra" : "1.0.3"
+    "zendframework/zend-view" : "2.9.0",
+    "e-commerce-passaro/compra" : "1.1.0"
   },
   "keywords" : [ "e-commerce-passaro", "zf3", "ecommerce", "compra", "view" ],
   "autoload": {
